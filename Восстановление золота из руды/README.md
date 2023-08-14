@@ -1,6 +1,6 @@
 # Восстановление золота из руды
 <p align="center">
-  <img width="400" height="150" src="img/4174.jpg">
+  <img width="400" height="150" src="img/19772.jpg">
 </p>  
 
 ## Задача проекта
