@@ -38,3 +38,6 @@
   Итоговая sMAPE на test получилась хуже, чем на train 9.38 vs 8.33.
 
   Итоговая sMAPE наших лучших моделей на тесте получилась лучше, чем константной 9.38 vs 9.83.
+
+  ## PS
+  <a href="https://ru.freepik.com/free-vector/big-set-of-metallic-gold-gradients_5001177.htm#query=gold&position=0&from_view=search&track=sph">Изображение от starline</a> на Freepik
